@@ -21,10 +21,16 @@ It leverages machine learning and a clean Django-based backend to assist users w
 
 
 🛠️ Tech Stack
+
 Frontend	----HTML, CSS, JavaScript
+
 Backend	--Node.Js,Express.JS
+
 Database	---MySql
+
 AI/ML---	Scikit-learn, Pandas, NumPy
+
 Version Control	Git & GitHub
+
 Deployment	--- Render
 
